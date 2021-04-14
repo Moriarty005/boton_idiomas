@@ -1,0 +1,7 @@
+C:\Users\lolac\source\repos\idiomas_boton\idiomas_boton\bin\Debug\idiomas_boton.dll
+C:\Users\lolac\source\repos\idiomas_boton\idiomas_boton\bin\Debug\idiomas_boton.pdb
+C:\Users\lolac\source\repos\idiomas_boton\idiomas_boton\obj\Debug\idiomas_boton.boton.resources
+C:\Users\lolac\source\repos\idiomas_boton\idiomas_boton\obj\Debug\idiomas_boton.csproj.GenerateResource.cache
+C:\Users\lolac\source\repos\idiomas_boton\idiomas_boton\obj\Debug\idiomas_boton.csproj.CoreCompileInputs.cache
+C:\Users\lolac\source\repos\idiomas_boton\idiomas_boton\obj\Debug\idiomas_boton.dll
+C:\Users\lolac\source\repos\idiomas_boton\idiomas_boton\obj\Debug\idiomas_boton.pdb
